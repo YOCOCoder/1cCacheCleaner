@@ -1,0 +1,1 @@
+1cCacheCleaner -safe -force -all_usr -log
